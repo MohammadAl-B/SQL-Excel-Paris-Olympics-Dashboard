@@ -3,7 +3,7 @@ This is my first Data Analytics Project.
 
 - I chose to use the recent Paris Olympics 2024 as my primary resource and used websites such as Kaggle and Olympics.com for my datasets.
 
-- I then manually created a Dashboard for the data I will be storing via PowerPoint and extracted it as a jpg file to use in Excel later.
+- I then created a Dashboard for the data I will be storing via PowerPoint and extracted it as a jpg file to use in Excel later.
 
 - I then wrote down in a temporary Excel sheet the data and sections that I would be looking to add onto my dashboard for a visual representation of some
   key statistics from the recent Olympics.
