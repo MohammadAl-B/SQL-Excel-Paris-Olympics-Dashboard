@@ -15,7 +15,7 @@ This is my first Data Analytics Project.
   This way I would know what I was looking for numerically in Excel and also documented all of the SQL code with screenshots of the results into a Word Document for Storage.
 
 - Once I had everything coded. I went back to Excel and started cleaning the Data a second time. This time I added columns to my tables and added information that I now would
-  need to formulate my data to achieve the required output. Then I created pivot tables of the separate tables and created graphs and charts of the information that I needed.
+  need to formulate my data to achieve the required output. Then I created pivot tables of the separate tables and created graphs and charts of the data that needed to be showcased.
 
 - Finally, I put all of the graphs, charts, and data onto the Dashboard sheet. 
   I then adjusted the colors to make it visually appealing and added text to the sections for ease of use.
