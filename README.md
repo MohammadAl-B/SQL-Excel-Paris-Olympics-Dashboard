@@ -1,4 +1,4 @@
-# PO2024-Data-Analytics-Project
+# SQL | Excel – Paris Olympics Dashboard
 This is my first Data Analytics Project.
 
 - I chose to use the recent Paris Olympics 2024 as my primary resource and used websites such as Kaggle and Olympics.com for my datasets.
